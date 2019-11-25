@@ -1,0 +1,61 @@
+<?xml version='1.0'?>
+
+<tutorial_text>
+  <text>
+    <message>
+      Uma informação é classificada como variável quando tem a possibilidade de ser alterada em algum instante no decorrer do programa. Todo dado a ser armazenado na memória de um computador deve ser previamente identificado, ou seja, primeiro é necessário saber qual o seu tipo, para depois fazer a alocação de um espaço de memória para o seu armazenamento adequado.
+    </message>
+  </text>
+
+  <text>
+    <message>
+      Em um ambiente computacional, as informações variáveis são guardadas em dispositivos eletrônicos chamados de memória. Esta memória pode ser vista como um “armário” composto de várias “gavetas”, no qual as gavetas seriam os locais físicos responsáveis por armazenar objetos; os objetos (que podem ser substituídos) seriam as informações e as gavetas seriam as variáveis.
+    </message>
+  </text>
+
+  <text>
+    <message>
+      Visto que na memória existem inúmeras variáveis, precisa-se diferenciá-las, o que é feito através do nome da variável. Cada variável, no entanto, pode guardar apenas uma informação de cada vez, sendo sempre do mesmo tipo. Alguns exemplos de declaração de variáveis:
+
+      string nome;
+      string endereco;
+      int apartamento;
+    </message>
+  </text>
+
+  <text>
+    <message>
+      Antes de declarar o nome de uma variável, é necessário especificar seu tipo.
+      Os tipos mais comuns são:
+      
+      - int (para números inteiros)
+      - float (para números decimais, ou números de ponto flutuante)
+      - string (para frases)
+      - bool (para valores lógicos de verdadeiro ou falso)
+      - char (para um único caracter)
+    </message>
+  </text>
+
+  <text>
+    <message>
+      Assim sendo, no exemplo anterior é possível ver que:
+      
+      string nome      
+      é uma variável chamada 'nome' que pode guardar frases
+      
+      string endereco  
+      é uma variável chamada 'endereco' que pode guardar frases
+      
+      int apartamento  
+      é uma variável chamada 'apartamento' que pode guardar números inteiros
+    </message>
+  </text>
+
+  <text>
+    <message>
+      Vá até o botão vermelho e aperte-o. Em seguida, crie uma variável do tipo inteiro (int) que armazenará o dano causado pelos tiros da sua arma.
+      
+      A qualquer momento você pode apertar Esc para ler essas informações novamente
+    </message>
+  </text>
+</tutorial_text>

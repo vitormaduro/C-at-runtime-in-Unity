@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<!-- This file represents a fragment of a book store inventory database -->
+
+<level-array>
+  <level name='Básico'>
+    
+  </level>
+
+  <level name='If-Else'>
+    
+  </level>
+
+  <level name='For e While'>
+    
+  </level>
+
+  <level name='Orientação a Objetos'>
+    
+  </level>
+</level-array>
